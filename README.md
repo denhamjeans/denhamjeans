@@ -17,4 +17,4 @@ Data engineering using Azure Databricks and Spark
 - Python
 - SQL
 
-📫 How to reach me: https://www.linkedin.com/in/jonneo/
+📫 How to reach me: https://www.linkedin.com/in/rorydenham/
