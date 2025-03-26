@@ -2,7 +2,9 @@ Hi there 👋
 
 🔭 I’m currently working on
 
-Data engineering using Azure Databricks and Spark
+Data engineering using GCP, with side projects in agorithmic trading.
+
+I have over 7 years experience in data analytics using a variety of cloud providers and a formal education in Data Science.
 
 👯 I’m looking to collaborate on
 
@@ -11,9 +13,9 @@ Data engineering using Azure Databricks and Spark
 
 💬 Ask me about
 
-- Data engineering
-- Azure data stack
-- Databricks
+- Data Engineering
+- Alogorithmic Trading
+- GCP data stack
 - Python
 - SQL
 
